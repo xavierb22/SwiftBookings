@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SwiftBookings",
+    "slug": "SwiftBookings",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SwiftBookings"
+}
