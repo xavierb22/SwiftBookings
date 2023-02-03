@@ -18,7 +18,7 @@ export default class Welcome extends Component {
             Welcome to
             </Text>
             <Text style={styles.paragraph}>
-            Swift Bookings
+            Swift Tracking
             </Text>
             </View>
             <View style={styles.start}>
